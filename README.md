@@ -2,8 +2,6 @@
 
 ### Team 3 ###
 
-* Adonis Muminovic
-* Matt McMahon
 * Kevin Ngovanduc
 
 ### What is this repository for? ###
