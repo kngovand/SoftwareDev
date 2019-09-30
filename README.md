@@ -1,31 +1,20 @@
 # README #
 
-### Team 3 ###
-
-* Kevin Ngovanduc
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Academic Web Banner System
+* Implementing new features
+* Primarily focused on testing
 
-### How do I get set up? ###
+### Features ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+* NUnit for testing
+* Mocking & Reflection concepts
+* Selenium for user interface testing
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
 * Other community or team contact
+
+
